@@ -1,4 +1,4 @@
-# Curriculum
+# Portfolio
 (PT-BR) Esse diretório é dedicado aos projetos, acadêmicos, profissionais ou pessoais, realizados por Matheus Senes.
 - Atividades Python - Curso em Vídeo.
 - Atividades Java - Algoritmos e Estruturas de Dados I.
